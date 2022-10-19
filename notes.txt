@@ -1,0 +1,6 @@
+"python -m venv env" sanal ortam
+"env\Scripts\activate" sanal ortamı aktive etmek
+"pip freeze" neler kurulu kontrol etmek
+django-admin --help
+"django-admin startproject smartedu"
+python manage.py runserver
