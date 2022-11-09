@@ -10,6 +10,5 @@ mvt-model view template
 {% tag %}
 {{variable}}
 {{ variable | filter }}
-
-deneme
-deneme2 3
+python manage.py makemigrations
+python manage.py migrate
