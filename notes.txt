@@ -1,6 +1,15 @@
 "python -m venv env" sanal ortam
-"env\Scripts\activate" sanal ortamı aktive etmek
+"d" sanal ortamı aktive etmek
 "pip freeze" neler kurulu kontrol etmek
 django-admin --help
 "django-admin startproject smartedu"
 python manage.py runserver
+git push -u origin main
+uygulama oluşturulması sonrası, uygulamayı projeye kaydet(smartedu->setting->installed apps)
+mvt-model view template
+{% tag %}
+{{variable}}
+{{ variable | filter }}
+
+deneme
+deneme2 3
