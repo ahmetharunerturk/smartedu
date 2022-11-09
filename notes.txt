@@ -4,3 +4,5 @@
 django-admin --help
 "django-admin startproject smartedu"
 python manage.py runserver
+
+deneme
