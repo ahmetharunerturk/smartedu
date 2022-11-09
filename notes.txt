@@ -12,3 +12,4 @@ mvt-model view template
 {{ variable | filter }}
 
 deneme
+deneme2 3
