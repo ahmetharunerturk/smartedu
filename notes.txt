@@ -1,4 +1,5 @@
 "python -m venv env" sanal ortam
+C:\Users\user\Desktop\smartedu_project\env\Scripts/activate.bat
 "d" sanal ortamı aktive etmek
 "pip freeze" neler kurulu kontrol etmek
 django-admin --help
@@ -12,3 +13,5 @@ mvt-model view template
 {{ variable | filter }}
 python manage.py makemigrations
 python manage.py migrate
+
+python manage.py shell
